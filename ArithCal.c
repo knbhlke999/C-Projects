@@ -48,6 +48,6 @@ int main()
         printf("Invalid Operator");
     }
     
-    retunr 0;
+    return 0;
 
 }
